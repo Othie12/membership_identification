@@ -1,0 +1,1 @@
+<p align="center" style="background-color: #333; padding: 5px; color: white;"> Copyright © 2022 | Parousia Ministries International All Rights Reserved</p>
